@@ -1,6 +1,6 @@
 # Vinícius Lemes
 [![Linkedin Badge](https://img.shields.io/badge/-ViníciusLemes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-lemes/)](https://www.linkedin.com/in/vinicius-lemes/) [![Medium Badge](https://img.shields.io/badge/-@vlemes-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vlemes/)](https://medium.com/@vlemes/)
-[![Gmail Badge](https://img.shields.io/badge/-lemesalves97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemesalves97@gmail.com)](mailto:lemesalves97@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vlemesalves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vlemesalves@gmail.com)](mailto:vlemesalves@gmail.com)
 
 
 ### Hi there 👋
