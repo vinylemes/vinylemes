@@ -4,9 +4,14 @@
 
 
 ### Hi there 👋
-I'm Vinícius Lemes, I'm Technology Coordinator at SMN with large knowledge in projects and teams management using agile methods. I love code and build digital products!
+I'm Vinícius Lemes, I'm degree in Systems Analysis and Development, I participated in the life cycle of products in various niches and stages, from startups in early stages, through growing startups, to large companies with a large share of the market, I also helped to design products technical as API as a product and products as a platform. In addition, I also had the opportunity to lead two development squads, made up of product people, engineers, and designers.
 
-- 🌱 I’m currently learning Flutter
-- 🔭 I’m currently working on web and mobile projects development
-- 💬 Ask me about Scrum or Anything else
-- ⚡ Fun fact: Even starting my career focused on building digital products I always loved code, so I was able to unite these two passions and lead a incredible developer team!
+Main Skills:
+• Digital Product Management
+• People/Technology Teams Management
+• Agile Project Management (SCRUM/KANBAN)
+• Java with SPRING Framework
+• NodeJS
+• PostgreSQL
+• MongoDB
+• Flutter
