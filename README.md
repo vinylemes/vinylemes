@@ -15,3 +15,8 @@ Main Skills:
 • PostgreSQL
 • MongoDB
 • Flutter
+
+<div>
+  <a href="https://github.com/vlemes">
+  <img src="https://github.com/vlemes/vlemes/blob/output/github-contribution-grid-snake.svg">
+</div>
